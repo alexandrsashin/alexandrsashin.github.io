@@ -1,0 +1,816 @@
+{
+  "cards": [{
+      "id": 101,
+      "imgSrc": "101.jpg",
+      "label": "основная горизонталь",
+      "category": "Рельеф",
+      "status": "checked"
+    },
+    {
+      "id": 102,
+      "imgSrc": "102.jpg",
+      "label": "утолщённая горизонталь",
+      "category": "Рельеф",
+      "status": "checked"
+    },
+    {
+      "id": 103,
+      "imgSrc": "103.jpg",
+      "label": "вспомогательная горизонталь",
+      "category": "Рельеф",
+      "status": "checked"
+    },
+    {
+      "id": 104,
+      "imgSrc": "104.jpg",
+      "label": "бергштрих",
+      "category": "Рельеф",
+      "status": "checked"
+    },
+    {
+      "id": 105,
+      "imgSrc": "105.jpg",
+      "label": "подпись высоты горизонтали",
+      "category": "Рельеф",
+      "status": "checked"
+    },
+    {
+      "id": 106,
+      "imgSrc": "106.jpg",
+      "label": "земляной обрыв, карьер",
+      "category": "Рельеф",
+      "status": "checked"
+    },
+    {
+      "id": 107,
+      "imgSrc": "107.jpg",
+      "label": "земляной вал",
+      "category": "Рельеф",
+      "status": "checked"
+    },
+    {
+      "id": 108,
+      "imgSrc": "108.jpg",
+      "label": "маленький земляной вал",
+      "category": "Рельеф",
+      "status": "checked"
+    },
+    {
+      "id": 109,
+      "imgSrc": "109.jpg",
+      "label": "промоина",
+      "category": "Рельеф",
+      "status": "checked"
+    },
+    {
+      "id": 110,
+      "imgSrc": "110.jpg",
+      "label": "канава",
+      "category": "Рельеф",
+      "status": "checked"
+    },
+    {
+      "id": 111,
+      "imgSrc": "111.jpg",
+      "label": "бугор",
+      "category": "Рельеф",
+      "status": "checked"
+    },
+    {
+      "id": 112,
+      "imgSrc": "112.jpg",
+      "label": "микробугор",
+      "category": "Рельеф",
+      "status": "checked"
+    },
+    {
+      "id": 113,
+      "imgSrc": "113.jpg",
+      "label": "яма, впадина",
+      "category": "Рельеф",
+      "status": "checked"
+    },
+    {
+      "id": 114,
+      "imgSrc": "114.jpg",
+      "label": "микрояма",
+      "category": "Рельеф",
+      "status": "checked"
+    },
+    {
+      "id": 115,
+      "imgSrc": "115.jpg",
+      "label": "воронка",
+      "category": "Рельеф",
+      "status": "checked"
+    },
+    {
+      "id": 116,
+      "imgSrc": "116.jpg",
+      "label": "бугристая поверхность",
+      "category": "Рельеф",
+      "status": "checked"
+    },
+    {
+      "id": 117,
+      "imgSrc": "117.jpg",
+      "label": "особый объект рельефа",
+      "category": "Рельеф",
+      "status": "checked"
+    },
+    {
+      "id": 118,
+      "imgSrc": "118.jpg",
+      "label": "утолщённый микробугорок",
+      "category": "Рельеф",
+      "status": "checked"
+    },
+    {
+      "id": 201,
+      "imgSrc": "201.jpg",
+      "label": "непреодолимая скальная стена",
+      "category": "Скалы и камни",
+      "status": "checked"
+    },
+    {
+      "id": 202,
+      "imgSrc": "202.jpg",
+      "label": "скальный столб",
+      "category": "Скалы и камни",
+      "status": "checked"
+    },
+    {
+      "id": 203,
+      "imgSrc": "203.jpg",
+      "label": "преодолимая скальная стена",
+      "category": "Скалы и камни",
+      "status": "checked"
+    },
+    {
+      "id": 204,
+      "imgSrc": "204.jpg",
+      "label": "скальная яма",
+      "category": "Скалы и камни",
+      "status": "checked"
+    },
+    {
+      "id": 205,
+      "imgSrc": "205.jpg",
+      "label": "пещера",
+      "category": "Скалы и камни",
+      "status": "checked"
+    },
+    {
+      "id": 206,
+      "imgSrc": "206.jpg",
+      "label": "камень",
+      "category": "Скалы и камни",
+      "status": "checked"
+    },
+    {
+      "id": 207,
+      "imgSrc": "207.jpg",
+      "label": "большой камень",
+      "category": "Скалы и камни",
+      "status": "checked"
+    },
+    {
+      "id": 208,
+      "imgSrc": "208.jpg",
+      "label": "каменная россыпь",
+      "category": "Скалы и камни",
+      "status": "checked"
+    },
+    {
+      "id": 209,
+      "imgSrc": "209.jpg",
+      "label": "группа камней",
+      "category": "Скалы и камни",
+      "status": "checked"
+    },
+    {
+      "id": 210,
+      "imgSrc": "210.jpg",
+      "label": "каменистый грунт",
+      "category": "Скалы и камни",
+      "status": "checked"
+    },
+    {
+      "id": 211,
+      "imgSrc": "211.jpg",
+      "label": "открытый песок",
+      "category": "Скалы и камни",
+      "status": "checked"
+    },
+    {
+      "id": 212,
+      "imgSrc": "212.jpg",
+      "label": "голые скалы",
+      "category": "Скалы и камни",
+      "status": "checked"
+    },
+    {
+      "id": 301,
+      "imgSrc": "301.jpg",
+      "label": "озеро",
+      "category": "Гидрография и болота",
+      "status": "checked"
+    },
+    {
+      "id": 302,
+      "imgSrc": "302.jpg",
+      "label": "пруд",
+      "category": "Гидрография и болота",
+      "status": "checked"
+    },
+    {
+      "id": 303,
+      "imgSrc": "303.jpg",
+      "label": "лужа, яма с водой",
+      "category": "Гидрография и болота",
+      "status": "checked"
+    },
+    {
+      "id": 304,
+      "imgSrc": "304.jpg",
+      "label": "непреодолимая река",
+      "category": "Гидрография и болота",
+      "status": "checked"
+    },
+    {
+      "id": 305,
+      "imgSrc": "305.jpg",
+      "label": "ручей",
+      "category": "Гидрография и болота",
+      "status": "checked"
+    },
+    {
+      "id": 306,
+      "imgSrc": "306.jpg",
+      "label": "маленький ручей",
+      "category": "Гидрография и болота",
+      "status": "checked"
+    },
+    {
+      "id": 307,
+      "imgSrc": "307.jpg",
+      "label": "незначительная водная канава",
+      "category": "Гидрография и болота",
+      "status": "checked"
+    },
+    {
+      "id": 308,
+      "imgSrc": "308.jpg",
+      "label": "узкое болото",
+      "category": "Гидрография и болота",
+      "status": "checked"
+    },
+    {
+      "id": 309,
+      "imgSrc": "309.jpg",
+      "label": "непреодолимое болото",
+      "category": "Гидрография и болота",
+      "status": "checked"
+    },
+    {
+      "id": 310,
+      "imgSrc": "310.jpg",
+      "label": "болото",
+      "category": "Гидрография и болота",
+      "status": "checked"
+    },
+    {
+      "id": 311,
+      "imgSrc": "311.jpg",
+      "label": "нечёткое болото",
+      "category": "Гидрография и болота",
+      "status": "checked"
+    },
+    {
+      "id": 312,
+      "imgSrc": "312.jpg",
+      "label": "колодец, фонтан",
+      "category": "Гидрография и болота",
+      "status": "checked"
+    },
+    {
+      "id": 313,
+      "imgSrc": "313.jpg",
+      "label": "родник",
+      "category": "Гидрография и болота",
+      "status": "checked"
+    },
+    {
+      "id": 314,
+      "imgSrc": "314.jpg",
+      "label": "особый объект гидрографии",
+      "category": "Гидрография и болота",
+      "status": "checked"
+    },
+    {
+      "id": 401,
+      "imgSrc": "401.jpg",
+      "label": "открытое пространство",
+      "category": "Растительность",
+      "status": "checked"
+    },
+    {
+      "id": 402,
+      "imgSrc": "402.jpg",
+      "label": "полуоткрытое пространство",
+      "category": "Растительность",
+      "status": "checked"
+    },
+    {
+      "id": 403,
+      "imgSrc": "403.jpg",
+      "label": "неудобное открытое пространство",
+      "category": "Растительность",
+      "status": "checked"
+    },
+    {
+      "id": 404,
+      "imgSrc": "404.jpg",
+      "label": "неудобное полуоткрытое пространство",
+      "category": "Растительность",
+      "status": "checked"
+    },
+    {
+      "id": 405,
+      "imgSrc": "405.jpg",
+      "label": "чистый, легкопроходимый лес",
+      "category": "Растительность",
+      "status": "checked"
+    },
+    {
+      "id": 406,
+      "imgSrc": "406.jpg",
+      "label": "среднепроходимая растительность",
+      "category": "Растительность",
+      "status": "checked"
+    },
+    {
+      "id": 407,
+      "imgSrc": "407.jpg",
+      "label": "среднепроходимый подлесок",
+      "category": "Растительность",
+      "status": "checked"
+    },
+    {
+      "id": 408,
+      "imgSrc": "408.jpg",
+      "label": "труднопроходимая растительность",
+      "category": "Растительность",
+      "status": "checked"
+    },
+    {
+      "id": 409,
+      "imgSrc": "409.jpg",
+      "label": "труднопроходимый подлесок",
+      "category": "Растительность",
+      "status": "checked"
+    },
+    {
+      "id": 410,
+      "imgSrc": "410.jpg",
+      "label": "непроходимая растительность",
+      "category": "Растительность",
+      "status": "checked"
+    },
+    {
+      "id": 411,
+      "imgSrc": "411.jpg",
+      "label": "лес направленной проходимости",
+      "category": "Растительность",
+      "status": "checked"
+    },
+    {
+      "id": 412,
+      "imgSrc": "412.jpg",
+      "label": "сад",
+      "category": "Растительность",
+      "status": "checked"
+    },
+    {
+      "id": 413,
+      "imgSrc": "413.jpg",
+      "label": "виноградник",
+      "category": "Растительность",
+      "status": "checked"
+    },
+    {
+      "id": 414,
+      "imgSrc": "414.jpg",
+      "label": "чёткая граница угодий",
+      "category": "Растительность",
+      "status": "checked"
+    },
+    {
+      "id": 415,
+      "imgSrc": "415.jpg",
+      "label": "возделываемая земля",
+      "category": "Растительность",
+      "status": "checked"
+    },
+    {
+      "id": 416,
+      "imgSrc": "416.jpg",
+      "label": "чёткий контур растительности",
+      "category": "Растительность",
+      "status": "checked"
+    },
+    {
+      "id": 417,
+      "imgSrc": "417.jpg",
+      "label": "нечёткий контур растительности",
+      "category": "Растительность",
+      "status": "checked"
+    },
+    {
+      "id": 418,
+      "imgSrc": "418.jpg",
+      "label": "специальный объект растительности",
+      "category": "Растительность",
+      "status": "checked"
+    },
+    {
+      "id": 501,
+      "imgSrc": "501.jpg",
+      "label": "автомагистраль",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 502,
+      "imgSrc": "502.jpg",
+      "label": "основное шоссе",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 503,
+      "imgSrc": "503.jpg",
+      "label": "малое шоссе",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 504,
+      "imgSrc": "504.jpg",
+      "label": "улучшенная грунтова дорога",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 505,
+      "imgSrc": "505.jpg",
+      "label": "полевая дорога",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 506,
+      "imgSrc": "506.jpg",
+      "label": "лесная дорога",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 507,
+      "imgSrc": "507.jpg",
+      "label": "тропа",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 508,
+      "imgSrc": "508.jpg",
+      "label": "нечёткая тропа",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 509,
+      "imgSrc": "509.jpg",
+      "label": "узкая просека",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 510,
+      "imgSrc": "510.jpg",
+      "label": "чёткая развилка дорог",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 511,
+      "imgSrc": "511.jpg",
+      "label": "мостик",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 512,
+      "imgSrc": "512.jpg",
+      "label": "переправа с мостиком",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 513,
+      "imgSrc": "513.jpg",
+      "label": "переправа без мостика",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 514,
+      "imgSrc": "514.jpg",
+      "label": "нечёткая развился дорог",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 516,
+      "imgSrc": "516.jpg",
+      "label": "железная дорога",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 517,
+      "imgSrc": "517.jpg",
+      "label": "линия электропередач",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 518,
+      "imgSrc": "518.jpg",
+      "label": "высоковольтная линия электропередач",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 519,
+      "imgSrc": "519.jpg",
+      "label": "туннель",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 520,
+      "imgSrc": "520.jpg",
+      "label": "каменная стена",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 521,
+      "imgSrc": "521.jpg",
+      "label": "разрушенная каменная стена",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 522,
+      "imgSrc": "522.jpg",
+      "label": "высокая каменная стена",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 523,
+      "imgSrc": "523.jpg",
+      "label": "забор, ограда",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 524,
+      "imgSrc": "524.jpg",
+      "label": "разрушенный забор или ограда",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 525,
+      "imgSrc": "525.jpg",
+      "label": "непреодолимый забор или ограда",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 526,
+      "imgSrc": "526.jpg",
+      "label": "проход в заборе или ограде",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 527,
+      "imgSrc": "527.jpg",
+      "label": "здание",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 528,
+      "imgSrc": "528.jpg",
+      "label": "поселение",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 529,
+      "imgSrc": "529.jpg",
+      "label": "постоянно запрещённый район",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 530,
+      "imgSrc": "530.jpg",
+      "label": "асфальтированная площадка",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 531,
+      "imgSrc": "531.jpg",
+      "label": "развалины, руины",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 532,
+      "imgSrc": "532.jpg",
+      "label": "стрельбище",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 533,
+      "imgSrc": "533.jpg",
+      "label": "могила",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 534,
+      "imgSrc": "534.jpg",
+      "label": "преодолимый трубопровод",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 535,
+      "imgSrc": "535.jpg",
+      "label": "непреодолимый трубопровод",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 536,
+      "imgSrc": "536.jpg",
+      "label": "высокая башня",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 537,
+      "imgSrc": "537.jpg",
+      "label": "малая башня",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 538,
+      "imgSrc": "538.jpg",
+      "label": "каменный столб",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 539,
+      "imgSrc": "539.jpg",
+      "label": "кормушка",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 540,
+      "imgSrc": "540.jpg",
+      "label": "особый искусственный объект",
+      "category": "Искусственные объекты",
+      "status": "checked"
+    },
+    {
+      "id": 601,
+      "imgSrc": "601.jpg",
+      "label": "линии магнитного склонения",
+      "category": "Условные знаки дистанции",
+      "status": "checked"
+    },
+    {
+      "id": 701,
+      "imgSrc": "701.jpg",
+      "label": "старт",
+      "category": "Условные знаки дистанции",
+      "status": "checked"
+    },
+    {
+      "id": 702,
+      "imgSrc": "702.jpg",
+      "label": "контрольный пункт (КП)",
+      "category": "Условные знаки дистанции",
+      "status": "checked"
+    },
+    {
+      "id": 703,
+      "imgSrc": "703.jpg",
+      "label": "номер контрольного пункта",
+      "category": "Условные знаки дистанции",
+      "status": "checked"
+    },
+    {
+      "id": 704,
+      "imgSrc": "704.jpg",
+      "label": "соединительная линия",
+      "category": "Условные знаки дистанции",
+      "status": "checked"
+    },
+    {
+      "id": 705,
+      "imgSrc": "705.jpg",
+      "label": "маркированный участок",
+      "category": "Условные знаки дистанции",
+      "status": "checked"
+    },
+    {
+      "id": 706,
+      "imgSrc": "706.jpg",
+      "label": "финиш",
+      "category": "Условные знаки дистанции",
+      "status": "checked"
+    },
+    {
+      "id": 707,
+      "imgSrc": "707.jpg",
+      "label": "запрещённая для пересечения",
+      "category": "Условные знаки дистанции",
+      "status": "checked"
+    },
+    {
+      "id": 708,
+      "imgSrc": "708.jpg",
+      "label": "проход",
+      "category": "Условные знаки дистанции",
+      "status": "checked"
+    },
+    {
+      "id": 709,
+      "imgSrc": "709.jpg",
+      "label": "запрещённая территория",
+      "category": "Условные знаки дистанции",
+      "status": "checked"
+    },
+    {
+      "id": 710,
+      "imgSrc": "710.jpg",
+      "label": "опасная территория",
+      "category": "Условные знаки дистанции",
+      "status": "checked"
+    },
+    {
+      "id": 711,
+      "imgSrc": "711.jpg",
+      "label": "запрещённый путь",
+      "category": "Условные знаки дистанции",
+      "status": "checked"
+    },
+    {
+      "id": 712,
+      "imgSrc": "712.jpg",
+      "label": "медпункт",
+      "category": "Условные знаки дистанции",
+      "status": "checked"
+    },
+    {
+      "id": 713,
+      "imgSrc": "713.jpg",
+      "label": "пункт питания",
+      "category": "Условные знаки дистанции",
+      "status": "checked"
+    }
+  ],
+  "categories": [
+    "Рельеф",
+    "Скалы и камни",
+    "Гидрография и болота",
+    "Растительность",
+    "Искусственные объекты",
+    "Условные знаки дистанции"
+  ]
+}
